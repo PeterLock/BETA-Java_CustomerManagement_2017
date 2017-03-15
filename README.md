@@ -1,2 +1,11 @@
-# Java-WorkShopBuilder2017-SQLDB-Embedded
-Contains embedded SQL Database. Database will be created in the same directory as the runnable file.
+# JavaCMS_2017 - Embedded SQLDB
+Contains:
+
+Embeddded SQLDB
+Custom UI
+Dynamic Listboxes
+Loading screen
+Can change color schemes
+Right mouse click on tables to delete records
+Password protecting
+Encryption sentry modules
